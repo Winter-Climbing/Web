@@ -150,5 +150,5 @@
 
 <br>
 
-> 생활코딩, WEB2-Domain Name System-6.DNS의 원리 https://www.youtube.com/watch?v=iM07I1X7qkg
+> 생활코딩, WEB2-Domain Name System-6.DNS의 원리 https://www.youtube.com/watch?v=iM07I1X7qkg <br>
 > 변계사 Sam의 테크 스타트업, 쉽게 이해하는 네트워크 15. 도메인 의미와 계층 구조 및 DNS 네임 서버(ft. 도메인의 가치) https://better-together.tistory.com/128
